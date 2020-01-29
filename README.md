@@ -6,6 +6,6 @@ Tools installer V1.1
 # pkg install python2 
 # pkg install git
 # git clone https://github.com/RyuXploit/RyuXploit-INSTALLER
-# sh Bogeng.sh
+# sh RyuXploit.sh
 # Jangan Lupa follow ig : @ jayakusuma404
 # SUBSCRIBE YT CHANNEL SCRIPT KIDDIES
