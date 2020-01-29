@@ -62,7 +62,7 @@ if [ $pilih = 2 ]; then
 sleep 2
   echo "SILAHKAN LIHAT USERNAME & PASS NYA :)"
 sleep 2
-  xdg-open http://ryuxploit.blogspot.com/2020/01/script-tools-installer-ryuxploit-50.html
+  xdg-open https://youtu.be/qg9pFErF7zM
 fi
 
 if [ $pilih = 3 ]; then
