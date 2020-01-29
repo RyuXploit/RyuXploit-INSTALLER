@@ -1,1 +1,40 @@
-E1Ww6++dTlSScokpW/Ppb0l+KkRE2nAmBdiX5rsCQqCkirWgdIkJq9Ih3Matr0e5nLZ7dJGT1oZU8V7NuAwbNo261nz0t4tsj4SfVZ9o1N4faJb9FEjlLE6yrijCKcIKsHO0jrEcc92UFzncZovAnehx3bPvRWOKWahdY9AUwAbs6A1+Hy5wgV0wCcBfU2XH0rSFsKBfiwxRzVKzYZ+gm8TpjwAffFSrNDSZ4QLRLagLZEXFfYWaIe+NOsyPSuVNQLI0RbAKcJ6NkE3xiuVwQqzuucyTL51TtU2+BWrwMky3L0sEb7o/W7PdXh/SnyodAj/PMCbFWaU/79Fr1or/Y3lFUR4/ZFfUAZHKgavQaCSad3/IalPrK81YUCHr+kDIlXTJezFhNPL40pFiAmEwkbWObevRmSpSg8/+9Bt/iTpIr/idp1n4jVTwJRD7Uk99ThklR121ryb8VKNpmIzI48Ea5Du012L7EOplNbleR2aPa/temWBsRSi1u7fbf+Y75Hb1sdO7cQ+teOVoYKRVtHeejAzxRI538I4/r6n/9QTjQYmqy4tKYf86kahrktHtC092Zd6RPWaO2pjl/NqVAseH+gx1IulA6I0cSXmA6gYrrpKglEf4V6Y5AB9fsBao+RZikh1JzZicOHLRHXHWtO2TLuT7e3G0m9waGy/aUhCjJZgqXhCqIJmdgevrGWU3sne917kCPNFRrF0oBczwba5EntZ1PfyENSHUJ18kbnS5UruXjt2Fx9sXsqcyDvQb44QUHbs7QowqvVllPI/PJHaP925EBSaopbD8M4sl13K3u7QL5oRdqNlQzzJhiO2idLGJKDBdZPjfH29bFVZQSDeX33Y3ZHjQ6uR5TI36DXCH/WAn15uNdN3LrTBiIVh4
+ulang="y"
+while [ $ulang = "y" ];
+do
+
+clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+mer='\033[41;97m' #Tepi
+R='\x1b[1;31m'
+G='\x1b[1;32m'
+B='\x1b[1;34m'
+Y='\x1b[1;33m'
+C='\x1b[1;36m'
+D='\x1b[0m'
+endc='\E[0m'
+enda='\033[0m'
+figlet -f pagga "Login Dulu" |lolcat -a -d 5
+echo $me"╔══════════╗"
+read -p "║ Username :" lu
+echo $pu"║"
+read -p "║ Password :" tod
+echo $pu"╚══════════╝"
+
+if [ $lu = "RyuXploit" ]|[ $tod = "Gans" ]
+then
+echo $cy"Login Sukses"
+sleep 3
+cd Tools
+sh bl.sh
+exit 0
+else
+echo $me"Salah Bambank!!"
+echo $ulang
+fi
+done
