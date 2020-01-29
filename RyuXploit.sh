@@ -1,1 +1,106 @@
-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
+ulang="y"
+while [ $ulang = "y" ];
+do
+
+clear
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+mer='\033[41;97m' #Tepi
+R='\x1b[1;31m'
+G='\x1b[1;32m'
+B='\x1b[1;34m'
+Y='\x1b[1;33m'
+C='\x1b[1;36m'
+D='\x1b[0m'
+endc='\E[0m'
+
+
+echo $i"██████▀▀▀░░░░▀▀▀██████     $cy╔═══════════════════════════╗"
+echo $i"███▀░░░░░░░░░░░░░░▀███     $cy║$ku Author :RyuXploit77$c       ║"
+echo $i"██│░░░░░░░░░░░░░░░░│██     $cy║$ku INSTALLER RYUXPLOIT       ║"
+echo $i"█▌│░░░░░░░░░░░░░░░░│▐█     $cy║$ku TOOLS INSTALLER$cy           ║"
+echo $i"█░└┐░░░░░░░░░░░░░░░┌┘█     $cy╚═══════════════════════════╝"
+echo $i"█░░└┐░░░░░░░░░░░░░┌┘░█"
+echo $i"█░░┌┘▄▄▄▄░░░░▄▄▄▄▄└┐░█"
+echo $i"▌░│████▌░░░▐█████│░▐ █    $cy ╔═══════════════════════════╗"
+echo $i"█░│▐█▀▀░░▄░░▀▀██▌│░███    $cy ║$me WELCOME TO RYUXPLOIT77$cy    ║"
+echo $i"█▀─┘░░░░░▐█▌░░░░░░└─▀█    $cy ║$me KALEAN HARUS LOGIN DAHULU$cy ║"
+echo $i"█▄░░▄▄▓░░▀█▀░░▓▄▄▄░░▄█    $cy ║$me JIKA KALIAN TIDAK TAU PAS$cy ║"
+echo $i"█▄─┘██▌░░░░░░░░▐██└─▄█    $cy ║$me KETIK 2 OOK $cy              ║"
+echo $i"██░░▐█─┬┬┬┬┬┬┬┬─█▌░░██    $cy ║$me SELAMAT MENCOBA $cy          ║"
+echo $i"█▌░░░▀🦂┼🦂┼🦂┼🦂███ ░████    $cy ╚═══════════════════════════╝"
+echo $i"██▄░░░└┴┴┴┴┴┴┴┴┘░░▄███"
+echo $i"███▄░░░░░░░░░░░░▄█████"
+echo $i"███████▄▄▄▄▄▄▄████████"
+
+sleep 2
+echo " "
+
+echo "##############################" |lolcat
+echo $pur" 1.LOGIN TOOLS"
+echo "##############################" |lolcat
+echo $pur" 2.USERNAME & PASSWORD "
+echo "##############################" |lolcat
+echo $pur" 3.INSTALL BAHAN BIAR WORK"
+echo "##############################" |lolcat
+echo $me
+read -p " Pilih Yang Mana? :" pilih;
+
+if [ $pilih = 1 ]; then
+  cd Tools
+  python2 run2.py
+exit 0
+fi
+
+if [ $pilih = 2 ]; then
+  echo "TUNGGU BENTAR..."
+sleep 2
+  echo "SILAHKAN LIHAT USERNAME & PASS NYA :)"
+sleep 2
+  xdg-open http://ryuxploit.blogspot.com/2020/01/script-tools-installer-ryuxploit-50.html
+fi
+
+if [ $pilih = 3 ]; then
+   clear
+   pkg install python
+clear
+   pkg install python2
+clear
+   pkg install nmap
+clear
+   pip install mechanize
+clear
+   pip2 install requests
+clear
+   pkg install php
+clear
+   pkg install git
+clear
+   pkg install neofetch
+clear
+   pkg install curl
+clear
+   pkg install lolcat
+clear
+   pkg install figlet
+clear
+   pkg install toilet
+clear
+   pkg install openssh
+clear
+   pkg install ruby
+clear
+   gem install lolcat
+cleat
+   pkg install nodejs
+clear
+else
+   echo $me" WRONG INPUT!"
+   echo $ulang
+fi
+done
