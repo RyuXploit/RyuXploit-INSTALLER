@@ -26,7 +26,7 @@ echo $pu"║"
 read -p "║ Password :" tod
 echo $pu"╚══════════╝"
 
-if [ $lu = "RyuXploit" ]|[ $tod = "Gans" ]
+if [ $lu = "RyuXploit" ]|[ $tod = "Security77" ]
 then
 echo $cy"Login Sukses"
 sleep 3
